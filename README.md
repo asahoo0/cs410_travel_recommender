@@ -1,5 +1,5 @@
 # Travel Recommender
-
+Video: https://mediaspace.illinois.edu/media/t/1_q12udv4o
 ## Overview
 
 The Travel Recommender is a web application built with Streamlit that recommends travel destinations based on user preferences such as food, climate, and culture. The system uses machine learning techniques, such as TF-IDF and cosine similarity, to match user descriptions with a list of curated cities and their descriptions.
