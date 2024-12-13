@@ -1,7 +1,3 @@
-Here’s a sample **README.md** for your **Travel Recommender** project. It includes instructions on how to set up, run the application, and provide details on the dependencies and functionality.
-
----
-
 # Travel Recommender
 
 ## Overview
